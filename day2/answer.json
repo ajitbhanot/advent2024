@@ -1,0 +1,289 @@
+{
+  "body": [
+    {
+      "uri_hash": [
+        "0d50261602fd96b534bf1725a50179c02da30cbc93de739dca4beb8a70c8255b",
+        "bc2f6dc7c808cac26162742bc825e8a60b80be155f4e3ca58b1b111d2422d5e5",
+        "0fdfa8f97b3e64dd49a76e232e29c2b99073b758ea4c2d44352008cb5e27d264",
+        "22dcaebb3931bc038bb207a5c117b6ff412847a6a98cb8114011e6ef0fd1cf49",
+        "7c458510d79029d3ea944d31009d83237eccba19da77273171a04e114fb1953d",
+        "9277c6ee0c96f1673b24bd81ff731d3655902916f84deb5ab5b2622be311ea44",
+        "64d07b1785b0a99181c4ded8508ae51de024f3eb1c05909eaa224ebffc42ff13",
+        "1d029340cae5da6a424dad4d2e890ee5e4e13d642aca78304ff500c9aef09270",
+        "9663da53d76d77e197102d9003095ed5d3f7eeee38eb4acf2c031270d127dd46",
+        "c07f332eb769a2470a7c068b01708da2ac7d863622367df6af33780601f3c48e",
+        "5855f98c039265f5defd17de98ac9f31728ccb325ae976853da2d48cde02f7e1",
+        "fa494311e21b5e88d32e5bb2f6b640635b00d33cdb7039e5009e293a243d3709",
+        "e041af9040eafa300c5fcdc2b0153c4850768a157a78609d8515b04bfb498a4f",
+        "db3f503cfcdc60a8a272b3b717c7258a20d4630813d885376b91b9d5f5c47373",
+        "05d9f0c71eb7b901f0329a8e7d4fa90c1e9ba44145d28389f494ef8a8900132b",
+        "55f284fa9031c1f00e2c1e2d4b1207a97697c882bec4258027ddebb74a5e34e8",
+        "7a4558a36a7fa94bb3fcd45b2eb557818024fecbb1feb95b6dda8f73e7452e88",
+        "42e80169e0a8ec25b5ddcf6b68a0ee38bd0354e221e407f15a7a85ad4c3f199f",
+        "a517bfe7b1bd31031cf632a5bc6b8d600456473d3e01009681e4067fdc3daf1e",
+        "3899d7d90500cb935cedf5562f7cea51da15fd91fe278d67e5a530e68b2e6806",
+        "db109d51d8e2310619ff6a234a4af1d1f2e50b622ed5b2a44249561a3a73b3c6",
+        "d834b0fdb135a8dae76d651295eabb1a74542848a3a39b8160532fa55e95656a",
+        "1e6b7f022679243ab00ea358a189c005c812e096d4151a3e55a5b4ef3a2a60fa",
+        "891c530ec911804408a6c26fb54b5f857d28ab02cda307cf0632dfd92a47c9c6",
+        "53d8cff92b3963fbe429d0560e2a5b093f5dcd98f6181ae29ae7dff0b64581ff",
+        "d638ad9ddffc12dce7f8b1fd5f8b671207af269d9c09773fca86c00a2992fe5d",
+        "9c363b4947ef2745a368dc9ee88c9669417a320b0d732aa34f1ae17107e3cdc0",
+        "23670b0b780c4b6b0b1b198d20a4b7941c64f78dd2efb89fc4f82aafc4687e55",
+        "8c90017143a54f6c4c5acecdc0f9ad917d08939bef5cf435b864aa37d79d4b02",
+        "812d86de37a39d3c93f5544e3dead21777144a3bd32c79d26d5e8bb24951b4ac",
+        "e5bcce3537b94c11c5ad10070fe8e96b33e718b83ee1b2e39adbf32e8076ec26",
+        "bfdc82bb8cf8d7df2c382aa2ea80b0c51b27e2982423fc7bd83d9fd7cdcb015c",
+        "b18cca8b7db494ebe3ca6eb111f0f02377988ebb467423f9041be62b231ca5f4",
+        "62a7e711f1fec291c266620b7fe1ea629c1e9c1e63cabf839b77f1f7138a6a3f",
+        "1550664e85d0c7aa7d5c98a3634e64d31a840a83f9392b68559f8897071e3313",
+        "4ee8f732d7c3cb499cf33da6c6fa29e1953c866795f539dcb50d2fbf4b41856b",
+        "efd9358c0aa6720f6d491a9dfab41ebdf0662e53913edc7143383f37877d9636",
+        "3ec126c5d550e7b03f3e4b881886939bb748256161dd018626f04c0855885847",
+        "f60ee4eb1b1172a6277281afe8b060d693c6a96d717373a99745cc6d84bc4c49",
+        "9fe83ecda053b4b7deef3f4708a2c35b0d5c778d2e8753e953df355ee81472ec",
+        "ac1285751dfe83ecb705dbd9a5063e5347df215d7ffc1c5afa837f4ea18ea082",
+        "6fdcc586ebfd49627c3ed572d46e6fa4886458cf33462fa68982ca17a2227660",
+        "14cbcdc0b6725982b75a69b98a89b9fef3a46314ad035984d2c5268431af251a",
+        "6a80d32f02d0300f5884946b7aaa44249d869012b458ae3604bbe4a7f58c7413",
+        "c604fda5bf740175569faf51cdaba805b2c4ecd2974ac46d9cf5f4ac05ea6cb7",
+        "cdb5a622446daea81cae7ea419cee1b294f15efffc6056b2993c8dca024e479d",
+        "736cb5576585b27aee2580e7ddc476496344cd507a0cd5869799da15c8479f42",
+        "cbdbe6c4bcb62fb4d8ab36d42262b7d0b67c5acc3a922382dca9588e0c3c71af",
+        "767e7b36af440396bcb90c9b1e89f54b0519038653001427f2295d17331ddff3",
+        "0a8cab627df397906d1ad99b98685c9ac96322a5908a1dbb175c27a11fe8fd82",
+        "41bff9599b3662942ba73a303eb77e58b073f6299e6f0d14bea0a1a568752502",
+        "7a16d9cfaf2c821d6574b5ad1eb8e79a607332d7bfaa6c4c73b5519fe8145c0b",
+        "0bc62944a15267060292dd41d56b0abf0fac09731c734ad69f155e813e80926c",
+        "b3ce5a6d4392643941154c0b8e0f3905802f10d24cd3bc92531453406577b4cd",
+        "134601c18fb78ad0488a5f04bbc576432b17687bdb7a84841b611852ecc2dbda",
+        "fa1ebe6baa3c42487b979326640af7c5f690f5e3127df595ca1f13f5c1f5f63e",
+        "b6eb7100fec5c8fd0ad06036eff44f1fa15308bb6a4e34ab22daad4bf62fe1f8",
+        "5e1ee32097808de94b3d3e7705177cf25b72593c32a2be806d10579d314b725d",
+        "d4fb9d53d44cac8528faa311a4b6cec8477379ca90851e84f804553ccdace690",
+        "bb8254a68dd7f4d09eb32403d45ddb21353b32bc1148c81d4938732b0cce10ff",
+        "53900daab8616e7a05453b47eee5ad301ec294c8c4c2c7d7056a97d7e70db59d",
+        "85d368bf17280e773bacc55cc0fa44d036b74dbc71b68662f1f9ca9373404d20",
+        "e2631067462bea6f4b8d83860aefb9af5af5380361160e90f384195483a315c9",
+        "62f11aeb925bac5e0cb944e8ebecc6fc717d966a450964d197a76447caecaeb5",
+        "c884bb08364b476b138e25b5b74ef3a41137d2734681c472b8e6f524bcf23ac2",
+        "85a9529282cd639d8f61629109f947fed774e5bbcd1aaa7eb73de9c708344d6e",
+        "84ac6de79462842eb57fb0f980c3675a55f3a30f2c2aa8a32412b90aa12c6112",
+        "1821e7a65c4549b92c808611a084fb1a784f35875386b76583cfa6dd747ba293",
+        "7d77624026445f6cef547f5d66bcd5c6519af3887130ae62632489f54397b18e",
+        "34c729df2b3d159ccf87b421565747723dff0b47c8a1cbd17a447ad22e4bfd50",
+        "24164f0bf956739ed25bc59da8fde2152680ee552a8f8e74aa63b2c8bac2e4d8"
+      ],
+      "domain_hash": [
+        "b5f3171d49c1fc162d83900be9a9c010da9f64081e75512eebcd5bbbb4bc78f4",
+        "1a2e36cc692d119df0a1849e97aafb00564af3f638bb5fbe4c63be1cb6b82319",
+        "7920f04945fe1d6e894fab5394904e3d5ee5f4ee87e5b6c46dbbe9c35417040a",
+        "c453f617e4318541a373398f4c13c7bdfb29c4e6a60d60a5b47fef1335965aa4",
+        "9587b0c9db9407f8c45b778e11d19aec74cae71bd6473f0bd890de9d6a40dfd7",
+        "409a475d4ba4b72f9c68b0d72347923ac7b2277f34d6a106eb4245feaea62ba3",
+        "fa75498a3038afefb1dbd6fe3a7b5e0c3fdcc86fb1aac40fcd5ef668ab782483",
+        "a5b2de9401b042d757a2b9e022d6c968e4fe31c61cb2cbcaedfc25a3c9ff0046",
+        "f24d4036ecb5e0949153d395cf1377d4e7e524f3b08d3d84a2a9c70edbc31b14",
+        "8794960d776fb193574f625e7482caf0259c13e9f1c754af3147600ed26c926a",
+        "976b9a98a4438d372468fe9b47d850fccbb392d22d82b8e57f9a6f6bf73f4aed",
+        "33e636cc703721ca12c4139e2ac31bf6e330df14b3d6705a288aa773978698c6",
+        "00f96b359b9b49255ae8082f3ee9359c27ec857f238ee870b261b015cc258bae",
+        "f99fdaca33bcf9ab739cf20765abc0d4432d783f82331d749849e99b11ef6401",
+        "ee3c29b35f177854505ac8bc602f4f54f2f7651fc352e244ff4acd3064509fb0",
+        "4c468b3b16999fd9578189576d5f770cb4a16ad9fca0e798a251f00a54a87c5d"
+      ],
+      "content_header": {
+        "content-type": [
+          "text/html; charset=\"UTF-8\""
+        ],
+        "content-transfer-encoding": [
+          "quoted-printable"
+        ]
+      },
+      "content_type": "text/html",
+      "hash": "7af72e741d939effc227ee96247f0d2de13fb2f0d4785c8ab83a09492befa005"
+    }
+  ],
+  "header": {
+    "subject": "Your Samsung order #SA101990545 shipped today",
+    "from": "orders@shopping.us.samsung.com",
+    "to": [
+      "abhanot2@illinois.edu"
+    ],
+    "delivered_to": [
+      "ajit.bhanot@gmail.com"
+    ],
+    "date": "2025-03-03T20:03:51+00:00",
+    "received": [
+      {
+        "src": "by 2002:a05:7010:30d6:b0:439:b454:d092 with smtp id q22csp2843752mdb; mon, 3 mar 2025 12:04:00 -0800 (pst)",
+        "by": [
+          "2002:a05:7010:30d6:b0:439:b454:d092"
+        ],
+        "with": "smtp id q22csp2843752mdb",
+        "date": "2025-03-03T12:04:00-08:00"
+      },
+      {
+        "src": "from mx0b-00007101.pphosted.com (mx0b-00007101.pphosted.com. [148.163.139.28]) by mx.google.com with esmtps id 00721157ae682-6fd3ca44496si78263997b3.104.2025.03.03.12.04.00 for <ajit.bhanot@gmail.com> (version=tls1_2 cipher=ecdhe-rsa-aes128-gcm-sha256 bits=128/128); mon, 03 mar 2025 12:04:00 -0800 (pst)",
+        "from": [
+          "mx0b-00007101.pphosted.com",
+          "148.163.139.28"
+        ],
+        "by": [
+          "mx.google.com"
+        ],
+        "with": "esmtps id 00721157ae682-6fd3ca44496si78263997b3.104.2025.03.03.12.04.00",
+        "for": [
+          "ajit.bhanot@gmail.com"
+        ],
+        "date": "2025-03-03T12:04:00-08:00"
+      },
+      {
+        "src": "from pps.filterd (m0272703.ppops.net [127.0.0.1]) by mx0b-00007101.pphosted.com (8.18.1.2/8.18.1.2) with esmtp id 523k0rdm016623 for <abhanot2@illinois.edu>; mon, 3 mar 2025 20:03:59 gmt",
+        "from": [
+          "pps.filterd",
+          "127.0.0.1",
+          "m0272703.ppops.net"
+        ],
+        "by": [
+          "mx0b-00007101.pphosted.com",
+          "8.18.1.2"
+        ],
+        "with": "esmtp id 523k0rdm016623",
+        "for": [
+          "abhanot2@illinois.edu"
+        ],
+        "date": "2025-03-03T20:03:59+00:00"
+      },
+      {
+        "src": "from a27-106.smtp-out.us-west-2.amazonses.com (a27-106.smtp-out.us-west-2.amazonses.com [54.240.27.106]) by mx0b-00007101.pphosted.com (pps) with esmtps id 455k35g1nt-1 (version=tlsv1.2 cipher=ecdhe-rsa-aes128-sha256 bits=128 verify=not) for <abhanot2@illinois.edu>; mon, 03 mar 2025 20:03:59 +0000 (gmt)",
+        "from": [
+          "a27-106.smtp-out.us-west-2.amazonses.com",
+          "54.240.27.106"
+        ],
+        "by": [
+          "mx0b-00007101.pphosted.com"
+        ],
+        "with": "esmtps id 455k35g1nt-1 (version=tlsv1.2 cipher=ecdhe-rsa-aes128-sha256 bits=128 verify=not)",
+        "for": [
+          "abhanot2@illinois.edu"
+        ],
+        "date": "2025-03-03T20:03:59+00:00"
+      }
+    ],
+    "received_domain": [
+      "mx.google.com",
+      "mx0b-00007101.pphosted.com",
+      "a27-106.smtp-out.us-west-2.amazonses.com",
+      "pps.filterd"
+    ],
+    "received_ip": [
+      "54.240.27.106",
+      "148.163.139.28",
+      "025.03.03.12",
+      "2002:a05:7010:30d6:b0:439:b454:d092",
+      "8.18.1.2",
+      "127.0.0.1"
+    ],
+    "received_foremail": [
+      "abhanot2@illinois.edu",
+      "ajit.bhanot@gmail.com"
+    ],
+    "header": {
+      "x-forwarded-encrypted": [
+        "i=2; AJvYcCUFRIbW2shZDkV3m2e0QRYV1qfwB0m0yeYW07k60vSJwoHQjTskkqk/RKiflv+GxcG1lWxFKMo5HpesBw==@gmail.com"
+      ],
+      "x-google-smtp-source": [
+        "AGHT+IFaEnOLaai1QXVtpqF42M5aWxXggrNXgO9dPMFKI8D01/W4c64TbzgDNmv6jljrlTAzXmTX"
+      ],
+      "x-proofpoint-virus-version": [
+        "vendor=baseguard engine=ICAP:2.0.293,Aquarius:18.0.1093,Hydra:6.0.680,FMLib:17.12.68.34 definitions=2025-03-03_09,2025-03-03_03,2024-11-22_01"
+      ],
+      "received": [
+        "by 2002:a05:7010:30d6:b0:439:b454:d092 with SMTP id q22csp2843752mdb;        Mon, 3 Mar 2025 12:04:00 -0800 (PST)",
+        "from mx0b-00007101.pphosted.com (mx0b-00007101.pphosted.com. [148.163.139.28])        by mx.google.com with ESMTPS id 00721157ae682-6fd3ca44496si78263997b3.104.2025.03.03.12.04.00        for <ajit.bhanot@gmail.com>        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);        Mon, 03 Mar 2025 12:04:00 -0800 (PST)",
+        "from pps.filterd (m0272703.ppops.net [127.0.0.1])\tby mx0b-00007101.pphosted.com (8.18.1.2/8.18.1.2) with ESMTP id 523K0Rdm016623\tfor <abhanot2@illinois.edu>; Mon, 3 Mar 2025 20:03:59 GMT",
+        "from a27-106.smtp-out.us-west-2.amazonses.com (a27-106.smtp-out.us-west-2.amazonses.com [54.240.27.106])\tby mx0b-00007101.pphosted.com (PPS) with ESMTPS id 455k35g1nt-1\t(version=TLSv1.2 cipher=ECDHE-RSA-AES128-SHA256 bits=128 verify=NOT)\tfor <abhanot2@illinois.edu>; Mon, 03 Mar 2025 20:03:59 +0000 (GMT)"
+      ],
+      "arc-authentication-results": [
+        "i=1; mx.google.com;       dkim=neutral (body hash did not verify) header.i=@amazonses.com header.s=7v7vs6w47njt4pimodk5mmttbegzsi6n header.b=wuI48IQD;       spf=softfail (google.com: domain of transitioning 010101955d9b93e8-20a7dcea-f5dd-4acd-94a3-796e2d5d9df6-000000@shopping.us.samsung.com does not designate 148.163.139.28 as permitted sender) smtp.mailfrom=010101955d9b93e8-20a7dcea-f5dd-4acd-94a3-796e2d5d9df6-000000@shopping.us.samsung.com;       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=samsung.com"
+      ],
+      "x-clx-response": [
+        "1TFkXGRIfEQpMehcTHxEKWUQXbWxnBUlmZhN5Tx8RClhYF2h7H3xFTlsTaXp bEQp4ThdmTHJyY2ByRltYHBEKeUwXZx9+YkdhbFAbfxkRCkNIFwcYGR0RCkNZFwcYHBwRCkNJFx oEGhoaEQpZTRdnZnIRCllJFx0acRgQGncGGBMfcRITHRAadwYYGgYaEQpZXhdobnkRCklGF19DX 0l1QkVZXk9OEQpJRxd4T00RCkNOFxpzGk9uc0JsYBMff0dgGGxne25SHxhiZW1/ekZzG2dpEQpY XBcfBBoEGRMbBRsaBBsbGgQbGR4EGRkQGx4aHxoRCl5ZF08BHAVhEQpNXBcZHRMRCkxaF21NTU0 RCkVZF29raxEKQk8XYmVNXkt/f3wTHkERCkNaFx8eBBgeGgQYHQQbGhwRCkJeFxsRCkJFF2h7H3 xFTlsTaXpbEQpCThdmTHJyY2ByRltYHBEKQkwXaHsffEVOWxNpelsRCkJsF2h7H3xFTlsTaXpbE QpCQBdsfWlMbGZsHGhDbBEKQlgXZngdfxwTR1oeZ1kRClpYFx0RCnlDF2lTWVNOUF5mZ0heEQpZ SxcbGxofGBEKcGgXaBxBa3BhZnNMRBoQGhEKcGgXZBxEQElaX2NoGkMQBx0aEQpwaBdjexwFa3t pGkt9SRAaEQpwaBdhbHxwQHp+XWRIYRAaEQpwaBdkbXsbcxlzHV5aeBAaEQpwaBdscHIbRB5heh x7WRAaEQpwaBdlcBgTTUtNHm5ZGxAHHBoRCnBoF2NhR0xzc1p6SGZcEBkaEQpwfRdoHE5pb35wS 2VCHhAaEQpwfRdtXR1Jfl4FXAVtYBATGREKcH0XZmFaTQVMaH1iYxoQGRoRCnB9F25dGXJjWh0b ThgBEBoRCnB9F2lmSWgcAWdefR1hEBoRCnB9F2ZBcB1LY1oTeFgZEBoRCnB9F3odfntyG3llbkF aEBoRCnB9F2NkGVNAWEFkUBNHEBoRCnB9F2QYX3JAYwFJQx0FEBoRCnB9F21BTE1TfFhYZX4bEB oRCnB9F25nHnBjQQFQTxJZEBoRCnB9F2xQGWJmeWhNSwEZEBoRCnB9F2leWUNySWQFeVppEBoRC nB9F3oBRkhbeX4bWXpsEBoRCnB9F2h9XB1+enxbBRNAEBoRCnB9F2d8BU1uS3N8ZWNgEBoRCnB9 F2lbGB9AQmNzAUFJEBoRCnB9F2BDHE4YfmAfHWFbEBoRCnB9F2tARRlZS08Fc04FEBoRCnB9F2Z 7G05ie3JEXBh4EBoRCnB9F2ZgbBwfSF0SZElaEBoRCnB9F2kcZV5eHFhTT2JGEBoRCnB9F2BTb3 sbSGdHfmJhEBoRCnB9F21eExJMTGgeSFBhEBoRCnB9F2FfHEBfWG9FQ2hHEBoRCnB9F2VeaV8YX 0VecEJEEBoRCnB9F2VtRnhDWRxaUGYeEBoRCnB9F2YZeVMZb3tfX2h6EBoRCnB9F2ltfF5ifkRk elthEBoRCnB9F24faR5+QH5yEhhhEBoRCnB9F2Foc31DGlhYfB9/EBoRCnB9F2IecER/GEVHH2t gEBoRCnB9F2ZGZBMbXEhHRV5YEBoRCnB/F2dfYlJzfkhiWF5zEBMYEQpwXxdha2NoGFkcQ1AbaB AaEQpwfxdhRB9CZX5ifWNMARAbHhkRCnBfF2BtWmxfH1Jbe2lZEBMZEQpwXxdgGmUbYl1IZkhBE hAbGhoRCnB/F2taGlAdQGV9bFhyEBkcEQpwXxdifmlYQhtTQmFhHBAbGBkRCnB/F2tTYW9QRWZC Ql1JEBseEQpwXxdmTm1jXlNiUkQcUhAbGBoRCnBfF2V9HHx9QUliBV9GEBoRCnBfF2FsR19mRHp IZ1x/EBwaEQpwXxdockVScHNob35icxAdGhEKcF8XYB5LfUh7ck1gbWEQHhIRCnBfF25cf05pWm wbblxsEBkaEQpwXxduRkVffUdORF1tRRAbEhEKbX4XGhEKWE0XSxEg"
+      ],
+      "x-proofpoint-guid": [
+        "0Y0eDYhFJ95UmJ2FMQDx52HOGUPlY1MC"
+      ],
+      "to": [
+        "abhanot2@illinois.edu"
+      ],
+      "date": [
+        "2025-03-03T20:03:51+00:00"
+      ],
+      "authentication-results": [
+        "mx.google.com;       dkim=neutral (body hash did not verify) header.i=@amazonses.com header.s=7v7vs6w47njt4pimodk5mmttbegzsi6n header.b=wuI48IQD;       spf=softfail (google.com: domain of transitioning 010101955d9b93e8-20a7dcea-f5dd-4acd-94a3-796e2d5d9df6-000000@shopping.us.samsung.com does not designate 148.163.139.28 as permitted sender) smtp.mailfrom=010101955d9b93e8-20a7dcea-f5dd-4acd-94a3-796e2d5d9df6-000000@shopping.us.samsung.com;       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=samsung.com",
+        "ppops.net;\tdkim=pass header.s=7v7vs6w47njt4pimodk5mmttbegzsi6n header.d=amazonses.com;\tspf=pass smtp.mailfrom=010101955d9b93e8-20a7dcea-f5dd-4acd-94a3-796e2d5d9df6-000000@shopping.us.samsung.com;\tdmarc=pass header.from=shopping.us.samsung.com"
+      ],
+      "x-spam-score": [
+        "0"
+      ],
+      "return-path": [
+        "<010101955d9b93e8-20a7dcea-f5dd-4acd-94a3-796e2d5d9df6-000000@shopping.us.samsung.com>"
+      ],
+      "subject": [
+        "Your Samsung order #SA101990545 shipped today"
+      ],
+      "x-clx-shades": [
+        "MLX"
+      ],
+      "x-ses-outgoing": [
+        "2025.03.03-54.240.27.106"
+      ],
+      "from": [
+        "orders@shopping.us.samsung.com"
+      ],
+      "dkim-signature": [
+        "v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;\ts=7v7vs6w47njt4pimodk5mmttbegzsi6n; d=amazonses.com; t=1741032232;\th=From:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID:Date:Feedback-ID;\tbh=cRFiE3lwR/GADg+l9vriPmEKe6e2SUC3f4hU5ZORcw0=;\tb=wuI48IQDHB+Y8UNiHDN9qhsG2uvfpN79hDndTk5XxKmuij2MLt2mhFZ/RSogGbcI\tEJagWxU9OM8kKu7OQ/NG6z+rg5/8C+qeC0oHzfph5cXjexqGwr6u0yNZCJbBp9RBAdi\tDPEN8jHeP4x2D6cTuAxszlmcGK/F0tLD1St0v7FI="
+      ],
+      "delivered-to": [
+        "ajit.bhanot@gmail.com"
+      ],
+      "mime-version": [
+        "1.0"
+      ],
+      "x-proofpoint-orig-guid": [
+        "0Y0eDYhFJ95UmJ2FMQDx52HOGUPlY1MC"
+      ],
+      "arc-message-signature": [
+        "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=mime-version:content-transfer-encoding:feedback-id:date:message-id         :subject:to:from:dkim-signature;        bh=8PlLrpq7MZiNkdz1vIfqhQaF+WpPxXW+XZGos3J8dNg=;        fh=V9Em0CFF40Pnw/JE/+K6j76dxE70KCLPiUGd/c8hukg=;        b=Q5MN5Mqxpz/9dk5rM6ihsb7JlzV+7GEc+0zv8jftTaE2xfio852rHRhIizbO8fs5wz         qxsNW8aXJA2BuFXJ//KL9C6PKGaFwt8DT3Tu8o21EW0FespqJi1BDkqfGAr1GHaHiAYz         rpxFtgC6cxn8pke2RrJmv1e2b9Wmef79+g0A5VQ4PqLayACMOQOEZLGU6+RZHOyKhNvr         V4pSfTnC1vO6KqNrWiLoipwlGe7sYTRpwF6wm/1oGR+O3hcEumwmklqxb3YGfbIjmdOv         TM7wwvoyqszn5Vr4Tx8/Z307WoJh+HJG2rmieAvdw8Kn5l+vlLXx3yVN41Ti8VdsxGbB         xo7g==;        dara=google.com"
+      ],
+      "arc-seal": [
+        "i=1; a=rsa-sha256; t=1741032240; cv=none;        d=google.com; s=arc-20240605;        b=TG5fuRdVEtzu9BeNBxebBW+Ab3jSNWQu1CIuja9oe5uIfcbo6PIsh9j5eQQq3ZGkWs         E1wK+3ZOfQSH5WwF9i2KY12rxFs8AKMDY5gokPhqm73NzYQ3o6NSy+zKefTe1F9rL8vN         G22qN0fk+MZd5swqZcP3YJDbS75hrd0Y0xjP/gZspOEG0BI0obaRP/ezgI3/ka9N69hX         oP0KO+ekqif7r4l9nupBjFqVGK/UGtWi2BrtfVmxhpHtoHK2zXEjp4VOsEEVtRJ6BrGX         EqANkPNsVtjFcZpfY7GcSkXSKykzv4g7dCKygmRBBV7UH3VycW3sjGmlNZ3P7V8mmSh3         vj3Q=="
+      ],
+      "feedback-id": [
+        "::1.us-west-2.rMoElget/gZAuBCqwqMn02adV0tcHQagnR3llR34rME=:AmazonSES"
+      ],
+      "x-proofpoint-spam-details": [
+        "rule=cautious_plus_notspam policy=cautious_plus score=0 priorityscore=95 bulkscore=0 clxscore=385 mlxlogscore=999 spamscore=0 lowpriorityscore=0 suspectscore=0 adultscore=0 malwarescore=0 mlxscore=0 phishscore=0 impostorscore=0 classifier=spam adjust=0 reason=mlx scancount=1 engine=8.19.0-2502100000 definitions=main-2503030154 domainage_hfrom=11052"
+      ],
+      "x-received": [
+        "by 2002:a05:690c:6f93:b0:6f6:b646:4f34 with SMTP id 00721157ae682-6fd4a13a852mr179101887b3.30.1741032240247;        Mon, 03 Mar 2025 12:04:00 -0800 (PST)"
+      ],
+      "x-spam-origsender": [
+        "010101955d9b93e8-20a7dcea-f5dd-4acd-94a3-796e2d5d9df6-000000@shopping.us.samsung.com"
+      ],
+      "message-id": [
+        "<010101955d9b93e8-20a7dcea-f5dd-4acd-94a3-796e2d5d9df6-000000@us-west-2.amazonses.com>"
+      ],
+      "content-transfer-encoding": [
+        "quoted-printable"
+      ],
+      "received-spf": [
+        "softfail (google.com: domain of transitioning 010101955d9b93e8-20a7dcea-f5dd-4acd-94a3-796e2d5d9df6-000000@shopping.us.samsung.com does not designate 148.163.139.28 as permitted sender) client-ip=148.163.139.28;"
+      ],
+      "content-type": [
+        "text/html; charset=\"UTF-8\""
+      ]
+    }
+  }
+}
